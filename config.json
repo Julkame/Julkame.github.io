@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "",
+    "link": "",
+    "text": "Julia Kaufmann"
+  },
+  "text": {
+    "more": "The mapping was undertaken as part of the OECD\u0027s work on states of fragility. ",
+    "intro": "This networks seeks to map the landscape of actors (thinktanks, IOs, NGOs, universities) that work on topics related to the fragility of states. The categorization of keywords is based on the OECD\u0027s fragility framework and its five dimensions. \nRed: Politcal factors\nBlue: Economic factors\nYellow: Security factors\nGreen: Environmental factors\nPurple: Social facors\nOther factors outside of the framework are displayed in turquoise. \nDetailed information on the different institutions can be accessed by clicking on the the respective nodes.    ",
+    "title": "Institutions working on Fragility "
+  },
+  "legend": {
+    "edgeLabel": "...",
+    "colorLabel": "... ",
+    "nodeLabel": "Actors and Topics"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
